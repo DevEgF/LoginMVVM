@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900904550360",
+    "project_id": "mvvm-15baf",
+    "storage_bucket": "mvvm-15baf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900904550360:android:b454d35cdfeaae573ebcad",
+        "android_client_info": {
+          "package_name": "filho.egito.mvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900904550360-qdh10u8o25m458tfefbnofcv6c24i1lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0eXjMVFLClRfff5SIGv6oW-viW1HLDfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900904550360-qdh10u8o25m458tfefbnofcv6c24i1lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
